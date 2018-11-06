@@ -1,6 +1,6 @@
 # hello_vue
 
-# hello_vue
+
 
 ## Project setup
 ```
